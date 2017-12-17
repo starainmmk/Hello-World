@@ -1,3 +1,3 @@
 # Hello-World
-my first project
-i am a stu in NKU
+# my first project
+# winter test
